@@ -1,0 +1,9 @@
+# Ignore API keys and secrets
+secrets.json
+
+# Ignore Spotify authorization cache
+.cache
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
