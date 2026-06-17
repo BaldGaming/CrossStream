@@ -1,9 +1,25 @@
 # Ignore API keys and secrets
 secrets.json
 
+# Ignore YTM VIP pass
+browser.json
+
 # Ignore Spotify authorization cache
 .cache
 
 # Ignore Python compiled files
 __pycache__/
 *.pyc
+
+# Ignore virtual environment
+.venv/
+*.env
+
+# Python Environment
+.venv/
+venv/
+env/
+
+# --- Python Cache
+# Compiled bytecode files that are not needed in source control.
+__pycache__/
